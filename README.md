@@ -1,4 +1,4 @@
-# IBM Intelligence Suite supply user interface
+# IBM Intelligence Suite User Interface
 
 Creating user interfaces in the IBM Supply Chain Intelligence Suite
 
